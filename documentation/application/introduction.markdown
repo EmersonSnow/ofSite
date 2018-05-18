@@ -40,4 +40,4 @@ All these settings classes are used in the same way, you create an instance, set
 auto window = ofCreateWindow(settings);
 ```
 
-or just ignore it if the application will only have one window. There's some examples on multiwindow applications in the examples/events folder.
+or just ignore it if the application will only have one window. There's some examples on multiwindow applications in the examples/windowing folder.
